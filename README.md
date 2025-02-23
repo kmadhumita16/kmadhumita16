@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kmadhumita16, I'm an aspiring data analyst with a strong background in Statistics and experience with SQL, Power BI, and Excel
 - 👀 I’m interested in Data analysis, Statistical modeling, and creating insightful  visualizations.
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Python, SQL 
 - 💞️ I'm looking to collaborate on data analysis projects, machine learning initiatives, or open-source contributions related to data science
 - 📫 Email: madhukannan1618@gmail.com
 - 😄 Pronouns: She
